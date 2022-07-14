@@ -1,2 +1,2 @@
-# YI-SHEN
+# PMM
 Using kernel function to solve pde (PMM)
